@@ -1,0 +1,17 @@
+{
+  "api_key": "",
+  "client_name": "",
+  "client_version": "",
+  "hl": "",
+  "gl": "",
+  "headers": {
+    "cookie": "",
+    "x-goog-authuser": "0",
+    "origin": "https://music.youtube.com",
+    "referer": "https://music.youtube.com/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6284.0 Safari/537.36",
+    "x-youtube-client-name": "",
+    "x-youtube-client-version": "",
+    "x-youtube-identity-token": ""
+  }
+}
