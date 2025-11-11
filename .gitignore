@@ -1,0 +1,15 @@
+﻿/*.exe
+/target
+/release-package
+Cargo.lock
+
+# Exclude MPV binaries (users should run setup-mpv.ps1)
+third_party/mpv/*.exe
+third_party/mpv/*.dll
+third_party/mpv/*.com
+third_party/mpv/doc/
+third_party/mpv/installer/
+
+# Keep config template
+!config/ytmusic.json.example
+config/ytmusic.json
